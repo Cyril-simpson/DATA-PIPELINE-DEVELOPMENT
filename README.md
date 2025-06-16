@@ -11,3 +11,6 @@
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTHOSH
+
+*OUTPUT*:
+✅ ETL Pipeline completed and files saved.
