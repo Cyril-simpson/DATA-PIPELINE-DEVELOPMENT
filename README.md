@@ -13,4 +13,4 @@
 *MENTOR*: NEELA SANTHOSH
 
 *OUTPUT*:
-✅ ETL Pipeline completed and files saved.
+ ETL Pipeline completed and files saved.
