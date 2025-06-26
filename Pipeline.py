@@ -153,7 +153,7 @@ class ETLProcessor:
         np.save(os.path.join(output_dir, "y_test.npy"), self.y_test)
         joblib.dump(self.preprocessor, os.path.join(output_dir, "preprocessor_pipeline.pkl"))
 
-        print("✅ ETL Pipeline completed and files saved.")
+        print(" ETL Pipeline completed and files saved.")
 
 # --- Main execution block ---
 if __name__ == "__main__":
